@@ -1,0 +1,7 @@
+---
+name: PlayerJoin
+version: 0.0.1
+main: Reared\PlayerJoin\Main
+api: 4.0.6
+src-namespace-prefix: Reared\PlayerJoin
+...
